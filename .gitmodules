@@ -1,0 +1,9 @@
+[submodule "ThePrimeJava"]
+	path = ThePrimeJava
+	url = https://github.com/Twibap/ThePrimeJava
+[submodule "ThePrimeKotlin"]
+	path = ThePrimeKotlin
+	url = https://github.com/Twibap/ThePrimeKotlin
+[submodule "ThePrimeGo"]
+	path = ThePrimeGo
+	url = https://github.com/Twibap/ThePrimeGo
